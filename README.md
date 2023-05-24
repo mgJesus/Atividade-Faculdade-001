@@ -1,7 +1,7 @@
 # Atividade Faculdade 001
  Criei um programa que calcula o desconto da renda 
  
- #rnd é o que utilizei para guardar o valor da renda.
+ #rnd é a variavel que utilizei para guardar o valor da renda.
  
 rnd = float(input('Qual a sua renda : R$ '))
 
