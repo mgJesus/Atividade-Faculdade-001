@@ -5,7 +5,7 @@
  
 rnd = float(input('Qual a sua renda : R$ '))
 
-#aqui e onde realiza os calculos para que possa saber o valor descontado da renda.
+#aqui é onde realiza os calculos para que possa saber o valor descontado da renda.
 
 #Nessa linha eu quis dizer que se o valor incial for de 0 até 2.000, o programa ira dizer que não será descontado do valor da renda.
 
