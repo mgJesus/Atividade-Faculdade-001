@@ -22,7 +22,7 @@ elif rnd >= 2000.00 and rnd <= 3000.00:
 elif rnd >= 3000.00 and rnd <= 4500.00:
     print('será descontado 18% da sua renda que ficará :', rnd-(rnd*18/100))
     
-#Por fim nessa linha  pedi para que o programa pegasse qualquer falor acima de 4500 e descontasse 24% do valor da renda.
+#Por fim nessa linha  pedi para que o programa pegasse qualquer valor acima de 4500 e descontasse 24% do valor da renda.
 
 else:
     print('será descontado 24% da sua renda que ficará :',rnd-(rnd*24/100))
